@@ -121,6 +121,8 @@ URL: <b>http://0.0.0.0:9090/shutdown</b> (Вместо 0.0.0.0 вводим ва
 
 ### Скачиваем и настраиваем программу
 
+ПЕРЕД УСТАНОВКОЙ УСТАНОВИТЕ: [NodeJS](https://nodejs.org/) и [Microsoft .NET Framework 4](https://www.microsoft.com/ru-RU/download/details.aspx?id=17718), без них программа не будет работать!
+
 Чтобы алиса могла выключать ваш пк нужно настроить программу, скачать ее можно по ссылке [вот по этой вот](https://github.com/ShizzaHo/AlisaShutdownPC/releases), расройте пункт Assets, и скачайте .zip архив
 
 ![domovenok](./docs/aspc.png)
